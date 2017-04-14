@@ -1,0 +1,12 @@
+platform :ios, ‘7.0’
+
+pod "MagicalRecord"
+pod "AFNetworking", "~> 2.0"
+pod 'REFrostedViewController', '~> 2.4'
+pod 'SVProgressHUD', :head
+pod 'GoogleMaps'
+pod 'Realm'
+pod 'STPopup'
+pod 'TGCameraViewController'
+
+

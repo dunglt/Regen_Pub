@@ -1,0 +1,55 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GoogleMaps (1.12.2)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - Realm (0.98.3):
+    - Realm/Headers (= 0.98.3)
+  - Realm/Headers (0.98.3)
+  - REFrostedViewController (2.4.8)
+  - STPopup (1.6.0)
+  - SVProgressHUD (HEAD based on 2.0-beta8)
+  - TGCameraViewController (2.2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - GoogleMaps
+  - MagicalRecord
+  - Realm
+  - REFrostedViewController (~> 2.4)
+  - STPopup
+  - SVProgressHUD (HEAD)
+  - TGCameraViewController
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  GoogleMaps: cc76edaa94a4284e80ecd7089ed319d1cca5f37e
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  Realm: c6a7d00221a2d5177810a674aebd40c5e0b70b0f
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  STPopup: 7975883c48560e4cb16ea1c6f351312ed2cd2bc0
+  SVProgressHUD: 6e48a1dda09ce3b58adc41d013baed3a8e8980ff
+  TGCameraViewController: 010082bae689f3940b132b310b44e4ddc5a4f8e4
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B4EFF345E432DE6CF5CFB64437C6B070DE86E01F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "87C69DE220E8506C231B0583D54C878C58CB8310" : 0,
+    "B4EFF345E432DE6CF5CFB64437C6B070DE86E01F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B8AE1B3-8113-412B-A919-2512233A33A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "87C69DE220E8506C231B0583D54C878C58CB8310" : "..\/Documents\/FastCash",
+    "B4EFF345E432DE6CF5CFB64437C6B070DE86E01F" : "bloodsocial\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Social",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SourceCode\/Social\/Social.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pagontashika14\/FastCash.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87C69DE220E8506C231B0583D54C878C58CB8310"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/pagontashika14\/bloodsocial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4EFF345E432DE6CF5CFB64437C6B070DE86E01F"
+    }
+  ]
+}
